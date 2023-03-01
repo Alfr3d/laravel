@@ -1,0 +1,23 @@
+/*@tailwind base;*/
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #232323;
+}
+.main-content-container {
+    min-height: 100vh;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.question-list-container {
+    margin: 15px auto;
+    border-radius: 5px;
+}
+
+.date-text {
+    font-size: small
+}
